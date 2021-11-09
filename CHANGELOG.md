@@ -4,6 +4,30 @@
 
 [1]: https://www.npmjs.com/package/googleapis?activeTab=versions
 
+## [92.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/googleapis-v91.0.0...googleapis-v92.0.0) (2021-11-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **composer:** This release has breaking changes.
+
+### Features
+
+* **androidmanagement:** update the API ([5501c3a](https://www.github.com/googleapis/google-api-nodejs-client/commit/5501c3a35c8abc3969beb9a41164658d01c488fb))
+* **chromepolicy:** update the API ([d4d91b6](https://www.github.com/googleapis/google-api-nodejs-client/commit/d4d91b69ee4d6b709ae09f40859d0b210d1bc1d0))
+* **cloudbuild:** update the API ([73e1aae](https://www.github.com/googleapis/google-api-nodejs-client/commit/73e1aaeeb02afad80a1190442c9fa18c1b31d106))
+* **composer:** update the API ([a2d45c2](https://www.github.com/googleapis/google-api-nodejs-client/commit/a2d45c2dc4e3438dfa927a12e09aff86a81b6888))
+* regenerate index files ([f59846a](https://www.github.com/googleapis/google-api-nodejs-client/commit/f59846ae360b2e1804134d460083df1b1d61a58e))
+
+
+### Bug Fixes
+
+* **analyticsadmin:** update the API ([dd59eb4](https://www.github.com/googleapis/google-api-nodejs-client/commit/dd59eb4d7f374264d5d441e8353f1ccb8b8d45f4))
+* **binaryauthorization:** update the API ([d176028](https://www.github.com/googleapis/google-api-nodejs-client/commit/d176028c9b0b169b7b1499f585b74aacaf5a8f75))
+* **cloudbilling:** update the API ([fed9831](https://www.github.com/googleapis/google-api-nodejs-client/commit/fed98310604feb7755220406fc9b744406424578))
+* **privateca:** update the API ([99b1383](https://www.github.com/googleapis/google-api-nodejs-client/commit/99b13836bd96e83a4bf53f5cfcac8f22415ff533))
+* **securitycenter:** update the API ([0d2f9df](https://www.github.com/googleapis/google-api-nodejs-client/commit/0d2f9df5112b11a17900dd33eaaf8561044a95a6))
+
 ## [91.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/googleapis-v90.0.0...googleapis-v91.0.0) (2021-11-08)
 
 

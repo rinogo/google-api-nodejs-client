@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/composer-v0.10.0...composer-v1.0.0) (2021-11-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **composer:** This release has breaking changes.
+
+### Features
+
+* **composer:** update the API ([a2d45c2](https://www.github.com/googleapis/google-api-nodejs-client/commit/a2d45c2dc4e3438dfa927a12e09aff86a81b6888))
+
 ## [0.10.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/composer-v0.9.2...composer-v0.10.0) (2021-11-08)
 
 
